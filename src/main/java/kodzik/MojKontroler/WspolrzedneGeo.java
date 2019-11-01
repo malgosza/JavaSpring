@@ -1,4 +1,4 @@
-package MojKontroler;
+package kodzik.MojKontroler;
 
 public class WspolrzedneGeo {
     private String dlugosc;
@@ -7,7 +7,6 @@ public class WspolrzedneGeo {
     public String getDlugosc() {
         return dlugosc;
     }
-
     public String getSzerokosc() {
         return szerokosc;
     }

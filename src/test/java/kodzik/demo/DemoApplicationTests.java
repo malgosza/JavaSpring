@@ -1,4 +1,4 @@
-package com.example.demo;
+package kodzik.demo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

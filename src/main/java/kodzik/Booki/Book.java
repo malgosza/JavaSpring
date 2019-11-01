@@ -1,4 +1,4 @@
-package com.example.demo;
+package kodzik.Booki;
 
 import lombok.Data;
 
